@@ -4,7 +4,7 @@ export default class App extends React.Component {
   render () {
     return (
       <div style={{textAlign: 'center'}}>
-        <h1>React//Express Boiler Yo!</h1>
+        <h1>waterways</h1>
       </div>
     )
   }

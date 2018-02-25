@@ -1,7 +1,7 @@
 {
-  "name": "react-express-boiler",
+  "name": "waterways",
   "version": "1.0.0",
-  "description": "boilerplate with React//Express//Webpack",
+  "description": "waterway health data collection",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
